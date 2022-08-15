@@ -1,0 +1,19 @@
+"Games"
+{
+    "tf"
+    {
+        "Offsets"
+        {
+			"CObjectDispenser::RefillThink"
+            {
+                "linux"         "416"
+                "windows"       "402"
+            }
+            "CObjectDispenser::GetHealRate"
+            {
+                "linux"         "425"
+                "windows"       "411"
+            }
+        }
+    }
+} 
